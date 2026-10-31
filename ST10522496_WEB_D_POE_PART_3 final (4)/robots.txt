@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://aphiwesphesihle860-crypto.github.io/WEB-D-ST10522496/sitemap.xml
